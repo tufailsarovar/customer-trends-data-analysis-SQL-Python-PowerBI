@@ -37,9 +37,9 @@ This project analyzes retail customer shopping behavior using Python, SQL, and P
 - Customer Shopping Behavior Analysis.pdf
 
 
-# Project Documents
+Project Documents
 
-- [Business Problem Document](Business_Problem_Document.pdf)
-- [Customer Shopping Behavior Analysis Report](Customer_Shopping_Behavior_Analysis.pdf)
+- [Business Problem Document](./Business%20Problem%20Document.pdf)
+- [Customer Shopping Behavior Analysis](./Customer%20Shopping%20Behavior%20Analysis.pdf)
 
 

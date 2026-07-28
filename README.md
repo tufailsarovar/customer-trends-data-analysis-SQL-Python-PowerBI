@@ -1,21 +1,21 @@
-# Retail Consumer Behavior Analysis
+Retail Consumer Behavior Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 
 
-# Project Overview
+Project Overview
 
 This project analyzes retail customer shopping behavior using Python, SQL, and Power BI to uncover customer trends, purchasing patterns, and business insights for data-driven decision-making.
 
 
-# Dashboard Preview
+Dashboard Preview
 
 ![Dashboard](Image/Dashboard.png)
 
 
-# Key Insights
+Key Insights
 
 - Total Customers: 125
 - Average Purchase Amount: $60.19
@@ -27,7 +27,7 @@ This project analyzes retail customer shopping behavior using Python, SQL, and P
 - Sales by Age Group
 
 
-# Repository Contents
+Repository Contents
 
 - Customer_Shopping_Behavior_Analysis.ipynb
 - customer_behavior_sql_queries.sql
@@ -39,7 +39,7 @@ This project analyzes retail customer shopping behavior using Python, SQL, and P
 
 Project Documents
 
-- [Business Problem Document](./Business%20Problem%20Document.pdf)
-- [Customer Shopping Behavior Analysis](./Customer%20Shopping%20Behavior%20Analysis.pdf)
+- [Business Problem Document](Business_Problem_Document.pdf)
+- [Customer Shopping Behavior Analysis Report](Customer_Shopping_Behavior_Analysis.pdf)
 
 
